@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## Introduction
+영남대학교 컴퓨터공학과 학부생
+
+## Links
+
+## Courses
+
 <!--
 **YunSunJung/YunSunJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
