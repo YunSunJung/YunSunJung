@@ -1,11 +1,13 @@
 ## Hi there 👋
 
 ## Introduction
-영남대학교 컴퓨터공학과 학부생
-
-## Links
+영남대학교 컴퓨터공학과 학부생으로 재학중이며 현재 MIDAS 종합설계를 진행 중 입니다.
 
 ## Courses
+컴퓨터공학학사 재학
+
+## Language
+C++, Java, Python, ARM processor
 
 <!--
 **YunSunJung/YunSunJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
